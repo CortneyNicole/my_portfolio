@@ -24,6 +24,7 @@ nav {
 
 nav a {
 	text-align: right;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .container {
@@ -35,6 +36,18 @@ nav a {
     width: 55%;
     float: left;
     margin-top: 10%;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #060068;
+}
+
+#heading {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 38px;  
+}
+
+#discription {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
 }
 
 .cort-illustration {
