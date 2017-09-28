@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dom",
+				"domain_name"
+			],
+			[
+				"longes",
+				"longestWord"
+			],
+			[
+				"res",
+				"result_food"
+			],
+			[
+				"total",
+				"total_food_need"
+			],
+			[
+				"farm",
+				"farmville"
+			],
+			[
+				"far",
+				"farmville"
+			],
+			[
+				"new",
+				"new_animal"
+			],
+			[
+				"partner",
+				"partner_list"
+			],
+			[
+				"grocery",
+				"grocery_list"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-top-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cortneyscott/my_portfolio/my_portfolio/my_portfolio",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/dir/*",
+		"/Users/cortneyscott/dbc-phase1/warmup-challenge/runner.rb",
+		"/Users/cortneyscott/dbc-phase1/dbc-phase1/warmup-challenge/runner.rb",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/assets/style.css",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/html/project.html",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/html/contact.html",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/html/home.html",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/html/about.html",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/home.html",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/style.css",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/project.html",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/contact.html",
+		"/Users/cortneyscott/my_portfolio/my_portfolio/about.htm",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/jquery/style.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/jquery/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/jquery/notes.md",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/jquery/CortneyNicole.github copy.io/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/jquery/CortneyNicole.github copy.io/the_day.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/jquery/CortneyNicole.github copy.io/thank_you.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/jquery/CortneyNicole.github copy.io/style.css",
+		"/Users/cortneyscott/personal_website/CortneyNicole.github.io/thank_you.html",
+		"/Users/cortneyscott/personal_website/CortneyNicole.github.io/the_day.html",
+		"/Users/cortneyscott/personal_website/CortneyNicole.github.io/index.html",
+		"/Users/cortneyscott/personal_website/CortneyNicole.github.io/style.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/sinatra_templating/views/home.erb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/sinatra_templating/views/delete_student.erb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/sinatra_templating/views/new_student.erb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/sinatra_templating/app.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/sinatra_intro/app.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/client_side_js/custom.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/client_side_js/home.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/client_side_js/script.js",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/client_side_js/glasses.png",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/client_side_js/hat.png",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/client_side_js/octopus.png",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/request_cycle/web_servers.md",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/request_cycle/http_request.md",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/web_dev/http_request.md",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/build_something_awesome/pw_organizer.rb",
+		"/Users/cortneyscott/pride-pocket-vue/pridepocket/pridepocket",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/databases/solo_project/queries.txt",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/databases/welp/queries.txt",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/js/algos.js",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/.git/COMMIT_EDITMSG",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/.git/MERGE_MSG",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/databases/sanctuary.db",
+		"/Users/cortneyscott/Desktop/pride_pocket/web/theme/topbar/site2.css",
+		"/Users/cortneyscott/Desktop/pride_pocket/web/theme/topbar/profile.html",
+		"/Users/cortneyscott/Desktop/pride_pocket/web/theme/topbar/signup.html",
+		"/Users/cortneyscott/Desktop/pride_pocket/web/theme/topbar/login.html",
+		"/Users/cortneyscott/Desktop/pride_pocket/web/theme/topbar/css/site.css",
+		"/Users/cortneyscott/Desktop/pride_pocket/web/theme/topbar/css/site2.css",
+		"/Users/cortneyscott/Desktop/pride_pocket/web/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/js/data_structures.js",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/js/algo.",
+		"/Users/cortneyscott/cortney_n_scott/cortney_n_scott/farm.rb",
+		"/Users/cortneyscott/cortney_n_scott/cortney_n_scott/farm_spec.rb",
+		"/Users/cortneyscott/Code_Practice/Code_Practice/ruby/99_bottles.rb",
+		"/Users/cortneyscott/Code_Practice/Code_Practice/ruby/grandma.rb",
+		"/Users/cortneyscott/Code_Practice/ruby/99_bottles.rb",
+		"/Users/cortneyscott/Code_Practice/Code_Practice/ruby/99_bottles",
+		"/Users/cortneyscott/Code_Practice/ruby/99_bottles",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/gps6/my_solution.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/gps6/state_data.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/js/explore.js",
+		"/Users/cortneyscott/test.js",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/game.rb",
+		"/Users/cortneyscott/devbootcamp/cortney_n_scott_6/cortney_n_scott_6/dance_spec.rb",
+		"/Users/cortneyscott/devbootcamp/cortney_n_scott_6/cortney_n_scott_6/dance.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/GuessingGame/game.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/GuessingGame/game_spec.rb",
+		"/Users/cortneyscott/phase0-review-reflect/week6.txt",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/shout.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/flight.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/santa.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/gps2_2.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/puppy_methods.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/calculator/calculator.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/calculator/calculator_spec.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/list/todolist.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/list/todo_list_spec.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/puppy.rb",
+		"/Users/cortneyscott/devbootcamp/cortney_n_scott_5/calculator.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/iteration_drill.rb",
+		"/Users/cortneyscott/phase0-review-reflect/week5.txt",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/alias_manager.rb",
+		"/Users/cortneyscott/menidae/tradie/css/main.css",
+		"/Users/cortneyscott/menidae/tradie/signup.html",
+		"/Users/cortneyscott/menidae/tradie/how.html",
+		"/Users/cortneyscott/menidae/tradie/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/alia_manager.rb",
+		"/Users/cortneyscott/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/cortneyscott/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cortneyscott/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/cortneyscott/menidae/tradie/.git/COMMIT_EDITMSG",
+		"/Users/cortneyscott/Desktop/local_dev_work/tradie",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/problem_solving_methods.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/nested_data_structures.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/hashes.rb",
+		"/Users/cortneyscott/Desktop/style.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/iteration.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/method_detective.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/vampires.rb",
+		"/Users/cortneyscott/phase0-review-reflect/week4.txt",
+		"/Users/cortneyscott/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/cortneyscott/Downloads/tmux-2.5 2/cmd-attach-session.c",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/hamsters.rb",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/ruby/algorithms.txt",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/gps/gps2-1.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/gps/gps2-1.css",
+		"/Users/cortneyscott/practice-repo/practice.rb",
+		"/Users/cortneyscott/devbootcamp/cortney_n_scott_3/cortney_n_scott_3/style.css",
+		"/Users/cortneyscott/devbootcamp/cortney_n_scott_3/cortney_n_scott_3/index.html",
+		"/Users/cortneyscott/phase0-review-reflect/week3.txt",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/css-demo/styles/elegant-styles.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/css-demo/styles/fixed-contact.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/css-demo/styles/practice.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/css-demo/index.html",
+		"/Users/cortneyscott/Downloads/responsive-design/style.css",
+		"/Users/cortneyscott/Downloads/responsive-design/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/responsive-design 2/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/responsive-design/style.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/responsive-design/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/responsive/stylesheet.css",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/responsive/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/html/gps/index.html",
+		"/Users/cortneyscott/devbootcamp/phase-0-tracks/css/positioning/style.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"})",
+			".signup-panel\n",
+			"signup-panel\n",
+			";\n",
+			"::before",
+			"class=page",
+			"join",
+			"h2",
+			".social",
+			"col-xs-6",
+			"class=\"panel\"",
+			".container",
+			"800ox",
+			"header",
+			";\n",
+			"proposal",
+			"id",
+			"external link",
+			"body",
+			"contact-info",
+			"th",
+			"already ",
+			"alread",
+			"alrea",
+			"show_password",
+			"show password",
+			"secure",
+			"remark",
+			"panel-bo",
+			"a",
+			"logo",
+			"foot",
+			"logo",
+			"site-foot",
+			"foot",
+			"#E9ECF4",
+			"page",
+			"theme/topbar/assets",
+			"theme/global",
+			"Join the Communit",
+			"join the comm",
+			"col-xs-6",
+			"panel",
+			"pp-lo",
+			"nav-item dropdown"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets",
+			"../global"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LICENSE.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
